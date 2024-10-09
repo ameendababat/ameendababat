@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm ameen dababat</h1>
+<h1 align="center">Hi 👋 I'm ameen dababat 👋</h1>
 <h3 align="center">from Palestine</h3>
 
-- 🌱 I’m currently learning **web Development frondEnd**
+- 🌱 I’m currently learning **web Development **
 
 - 💬 Ask me about **problem solving**
 
