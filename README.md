@@ -1,28 +1,99 @@
-<h1 align="center">Hi 👋, I'm ameen Dababat</h1>
-<h3 align="center">A passionate Backend python developer From Palestine</h3>
+<h1 align="center">Hi 👋, I'm Ameen Dababat</h1>
 
-- 🌱 I’m currently learning **python Framwork like FastAPI**
+<h3 align="center">
+Backend Developer | Computer Systems Engineering Graduate from Palestine 🇵🇸
+</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ameendababat?tab=repositories](https://github.com/ameendababat?tab=repositories)
-
-- 💬 Ask me about **problem solving and web development**
-
-- 📫 How to reach me **ameendababat07@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1z012HJYlUCYn9_nZ6tF8mLy_FrqVKe48/view?usp=sharing](https://drive.google.com/file/d/1z012HJYlUCYn9_nZ6tF8mLy_FrqVKe48/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ameendababat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ameendababat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ameendababat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ameendababat/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.linkedin.com/in/ameendababat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.linkedin.com/in/ameendababat/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@ameendababat9886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ameendababat9886" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/ameendababat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ameendababat" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ameendababat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ameendababat/" height="30" width="40" /></a>
+<p align="center">
+Passionate about building scalable backend systems, solving programming problems, and continuously learning modern software engineering.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/ko-Fi ameendababat"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-Fi ameendababat" /></a></p><br><br>
+## 👨‍💻 About Me
+
+- 🎓 Computer Systems Engineering Graduate (2025)
+- 💻 Backend Developer specializing in **TypeScript, Node.js, Express, FastAPI & PostgreSQL**
+- 🌱 Currently learning more about **Cloud Computing, System Design, and Software Architecture**
+- 🧠 Passionate about **Problem Solving** and **Competitive Programming**
+- 🚀 Always exploring new technologies and building backend applications
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,sql" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,bash,vscode" />
+</p>
+
+### Frontend Knowledge
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,sass,figma" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ameendababat">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/ameendababat">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://leetcode.com/u/ameendababat/">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
+</a>
+
+<a href="https://codeforces.com/profile/ameendababat">
+<img src="https://sta.codeforces.com/s/0/favicon-96x96.png" width="48"/>
+</a>
+
+<a href="https://www.youtube.com/@ameendababat9886">
+<img src="https://skillicons.dev/icons?i=youtube"/>
+</a>
+</p>
+
+---
+
+## 📫 Contact
+
+📧 **Email:** ameendababat07@gmail.com
+
+🌍 **Portfolio:** https://ameendababat.github.io/Portfolio_Website/
+
+📄 **Resume:** [https://drive.google.com/file/d/1z012HJYlUCYn9_nZ6tF8mLy_FrqVKe48/view](https://drive.google.com/file/d/1gSYD0OCl-JwJygNJhDng5aO3Sm2raZQX/view?usp=sharing)
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ameendababat&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ameendababat&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameendababat&layout=compact&theme=tokyonight"/>
+</p>
