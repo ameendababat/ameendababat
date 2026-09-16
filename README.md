@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ameen Dababat</h1>
 
 <h3 align="center">
-Backend Developer | Computer Systems Engineering Graduate from Palestine 🇵🇸
+ Junior Full-Stack Software Developer | Computer Systems Engineering Graduate from Palestine 🇵🇸
 </h3>
 
 <p align="center">
