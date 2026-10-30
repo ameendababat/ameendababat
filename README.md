@@ -49,7 +49,7 @@ Passionate about building scalable backend systems, solving programming problems
 ### Frontend Knowledge
 
 <p>
-<img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,sass,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,figma" />
 </p>
 
 ---
